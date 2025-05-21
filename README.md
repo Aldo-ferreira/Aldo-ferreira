@@ -17,7 +17,7 @@ Tenho formação em **Eletrotécnica** com especialização em sistemas **SCADA*
 - Fundamentos de **cibersegurança**.
 
 ## 💻 Projetos:
-- [Projeto Senhas: Pega de Boi no Mato]((https://aldo-ferreira.github.io/-Registros-de-Senhas-para-pega-de-boi-no-mato-/)) 
+- [Projeto Senhas: Pega de Boi no Mato](https://aldo-ferreira.github.io/-Registros-de-Senhas-para-pega-de-boi-no-mato-/) 
   Um sistema para gerenciar uma lista de senhas de uma vaqueja de pega boi no mato. Atualmente em desenvolvimento, com a integração de JavaScript planejada para aprimorar a funcionalidade.
 
 
